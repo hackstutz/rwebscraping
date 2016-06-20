@@ -1,3 +1,3 @@
-# Webscraping mit R
+# Webscraping with R
 
-Repo contains Markdown Files to feed Gitbook <https://www.gitbook.com/book/hackstutz/webscraping-mit-r/welcome>
+Repository contains Markdown Files to compile an HTML book using [bookdown](https://bookdown.org/home/).

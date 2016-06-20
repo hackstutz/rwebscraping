@@ -1,0 +1,9 @@
+# Dynamic contents {#dynamic}
+
+## DOM
+
+## AJAX
+
+## JavaScript
+
+## Selector Gadget
